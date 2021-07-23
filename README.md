@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevlinker
+- 👋 Hi, I’m kevin adaka
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on c and c++
